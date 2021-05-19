@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "San Bruno Liqour store",
+        "title": "UsAgain",
+        "category": "recycle",
+        "imageURL": "https://path/to/image.png",
+        "address": "145 cypress ave, San Bruno, Ca 94066",
+        "hours": "every Day - noon till 7pm",
+        "phone": "650-294-0291",
+        "website": "https://stuckbykev.com",
+        "info": "Here is some description text",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424088,
+          37.634897
+        ]
+      },
+      "id": "6b6089b8-e60e-46f1-af79-aa47a5ebcd8d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Target parking lot",
+        "title": "Small Bin",
+        "category": "clothes",
+        "imageURL": "https://path/to/image.png",
+        "address": "145 cypress ave, San Bruno, Ca 94066",
+        "hours": "every Day - noon till 7pm",
+        "phone": "650-294-0291",
+        "website": "https://stuckbykev.com",
+        "info": "Here is some description text",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.395248,
+          37.615863
+        ]
+      },
+      "id": "4e832051-11ad-4a1a-98b2-355de33484f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Starbucks parking lot",
+        "title": "Store",
+        "category": "clothes",
+        "imageURL": "https://path/to/image.png",
+        "address": "145 cypress ave, San Bruno, Ca 94066",
+        "hours": "every Day - noon till 7pm",
+        "phone": "650-294-0291",
+        "website": "https://stuckbykev.com",
+        "info": "Here is some description text",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434387,
+          37.743028
+        ]
+      },
+      "id": "63e24be1-6a2c-4dbc-862f-59339a3a7020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Goodwill",
+        "title": "Store",
+        "category": "clothes",
+        "imageURL": "https://path/to/image.png",
+        "address": "145 cypress ave, San Bruno, Ca 94066",
+        "hours": "every Day - noon till 7pm",
+        "phone": "650-294-0291",
+        "website": "https://stuckbykev.com",
+        "info": "Here is some description text",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.406921,
+          37.706097
+        ]
+      },
+      "id": "69cddb40-ed7d-4b1b-9e7e-0323580a2a9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "St. Vincent De Paul",
+        "title": "Small Bin",
+        "category": "food",
+        "imageURL": "https://path/to/image.png",
+        "address": "145 cypress ave, San Bruno, Ca 94066",
+        "hours": "every Day - noon till 7pm",
+        "phone": "650-294-0291",
+        "website": "https://stuckbykev.com",
+        "info": "Here is some description text",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.463913,
+          37.743571
+        ]
+      },
+      "id": "45cf8f49-591d-4140-acbe-bbdb2cb9cf99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Goodwill",
+        "title": "Small Bin",
+        "category": "food",
+        "imageURL": "https://path/to/image.png",
+        "address": "145 cypress ave, San Bruno, Ca 94066",
+        "hours": "every Day - noon till 7pm",
+        "phone": "650-294-0291",
+        "website": "https://stuckbykev.com",
+        "info": "Here is some description text",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.452927,
+          37.685451
+        ]
+      },
+      "id": "22d9c777-2f00-44dd-9618-a5025e643c97"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Side street",
+        "title": "Small Bin",
+        "category": "blood",
+        "imageURL": "https://path/to/image.png",
+        "address": "145 cypress ave, San Bruno, Ca 94066",
+        "hours": "every Day - noon till 7pm",
+        "phone": "650-294-0291",
+        "website": "https://stuckbykev.com",
+        "info": "Here is some description text",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363663,
+          37.576692
+        ]
+      },
+      "id": "fef40757-9922-43f6-8d44-33f8a4a3e20b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Unknown",
+        "title": "Small Bin",
+        "category": "blood",
+        "imageURL": "https://path/to/image.png",
+        "address": "145 cypress ave, San Bruno, Ca 94066",
+        "hours": "every Day - noon till 7pm",
+        "phone": "650-294-0291",
+        "website": "https://stuckbykev.com",
+        "info": "Here is some description text",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.495499,
+          37.604984
+        ]
+      },
+      "id": "cc47885a-abfa-4144-a559-67692c1c6cbe"
+    }
+  ]
+}
